@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Box>
+	<Message key="notice" value="Box system.&#xA;Please enter authorized STEER ID and Password to log in."/>
+	<Message key="productTitle" value="Item Management System"/>
+	<Message key="msg_01" value="Password does not match."/>
+	<Message key="msg_02" value="Please wait while loading."/>
+	<Message key="msg_03" value="Welcome."/>
+	<Message key="msg_04" value="Accessing to server."/>
+	<Message key="msg_05" value="Logging in…"/>
+	<Message key="msg_06" value="Please enter ID."/>
+	<Message key="msg_07" value="Please enter Password."/>
+	<Message key="msg_08" value="Requesting. Please wait. "/>
+	<Message key="msg_09" value=" is logged in."/>
+	<Message key="msg_10" value="Are you sure to log out?"/>
+	<Message key="msg_11" value="You do not have authority. Please contact administrator."/>
+	<Message key="msg_12" value="Quick menu is not set."/>
+	<Message key="msg_13" value="No list was selected."/>
+	<Message key="msg_14" value="Please select from the list or select registered menu."/>
+	<Message key="msg_15" value="Now loading."/>
+	<Message key="msg_16" value=" service item tag will be deleted. Continue?"/>
+	<Message key="msg_17" value=" service item tag is deleted."/>
+	<Message key="msg_18" value="Please verify input value."/>
+	<Message key="msg_19" value=" item tag will be deleted and new item tag will be registered. Continue?"/>
+	<Message key="msg_20" value="Due to system error, target for modifying was not registered after deletion. Please verify."/>
+	<Message key="msg_21" value=" item tag was registered in duplicate."/>
+	<Message key="msg_22" value=" item tag was registered."/>
+	<Message key="msg_23" value="Only numbers are allowed for a column."/>
+	<Message key="msg_24" value=" box tag will be deleted. Continue?"/>
+	<Message key="msg_25" value=" box tag is deleted."/>
+	<Message key="msg_26" value=" box tag will be deleted and new box tag will be registered. Continue?"/>
+	<Message key="msg_27" value=" box tag was registered in duplicate."/>
+	<Message key="msg_28" value=" box tag was registered."/>
+	<Message key="msg_29" value=" service item will be deleted. Continue?"/>
+	<Message key="msg_30" value=" service item is deleted."/>
+	<Message key="msg_31" value="Please select date."/>
+	<Message key="msg_32" value="Please enter item mapping number."/>
+	<Message key="msg_33" value=" service item is registered."/>
+	<Message key="msg_34" value=" tag verification value is not entered."/>
+	<Message key="msg_35" value="Register service item?"/>
+	<Message key="msg_36" value=" box is deleted."/>
+	<Message key="msg_37" value=" box will be deleted. Continue?"/>
+	<Message key="msg_38" value="Requesting. Please wait."/>
+	<Message key="msg_39" value="Some of selected items are already added."/>
+	<Message key="msg_40" value="Please enter user number."/>
+	<Message key="msg_41" value="End use time cannot be the same as start use time or earlier."/>
+	<Message key="msg_42" value="One or more item(s) must be selected to create a box."/>
+	<Message key="msg_43" value=" tag value was not input."/>
+	<Message key="msg_44" value="Value for tag name was not input."/>
+	<Message key="msg_45" value="Create a box with these contents?"/>
+	<Message key="msg_46" value=" box is created."/>
+	<Message key="msg_47" value="Register item tag?"/>
+	<Message key="msg_48" value="Register box tag?"/>
+	<Message key="msg_49" value="Create box template with this content?"/>
+	<Message key="msg_50" value=" box template is created."/>
+	<Message key="msg_51" value="No data to export."/>
+	<Message key="msg_52" value="Field must be numbers."/>
+	<Message key="msg_53" value="Please enter box template number."/>
+	<Message key="msg_54" value=" box template will be deleted. Continue?"/>
+	<Message key="msg_55" value=" box template is deleted."/>
+	<Message key="msg_56" value="Export data information:"/>
+	<Message key="msg_57" value="You can download via link below."/>
+	<Message key="msg_58" value="Number of included service item tag:"/>
+	<Message key="msg_59" value="Number of included box tag:"/>
+	<Message key="msg_60" value="Number of included service item:"/>
+	<Message key="msg_61" value="Number of included box template:"/>
+	<Message key="msg_62" value="After file upload is finished, data to import in file will be displayed here."/>
+	<Message key="msg_63" value="Before select upload, please select file and confirm information."/>
+	<Message key="msg_64" value="Invalid file extension for {file}. Only {extensions} extension is allowed."/>
+	<Message key="msg_65" value="{file} exceeded maximum allowed file size. Allowed maximum file size should be {sizeLimit}."/>
+	<Message key="msg_66" value="{file} is below minimum allowed file size. Allowed minimum file size should be {minSizeLimit}."/>
+	<Message key="msg_67" value="{file} is empty. Please upload again."/>
+	<Message key="msg_68" value="Uploading file now. Upload will be canceled if move to another page."/>
+	<Message key="msg_69" value="One or more data in file is already registered in system. Please check analyze result and proceed."/>
+	<Message key="msg_70" value="After file upload is finished, analyze result and register button will be displayed here."/>
+	<Message key="msg_71" value="File upload and data analysis completed."/>
+	<Message key="msg_72" value="Saved file name in system:"/>
+	<Message key="msg_73" value="File uploading and data analyzing…"/>
+	<Message key="msg_74" value="No problem was found for data register."/>
+	<Message key="msg_75" value="Once started, you cannot cancel register. Continue?"/>
+	<Message key="msg_76" value="Register: Data for [{1} {2}] of [{0}] is already registered."/>
+	<Message key="msg_77" value="Value: Value for data column [{3}] of [{0}]'s [{1} {2}] does not match. They are different as file [{4}], system [{5}]."/>
+	<Message key="msg_78" value="Register: Data for [{1} {2} {3} {4}] of [{0}] is already registered."/>
+	<Message key="msg_79" value="Value: Value for data column [{5}] of [{0}]'s [{1} {2} {3} {4}] does not match. They are different as file [{6}], system [{7}]."/>
+	<Message key="msg_80" value="Registering data…"/>
+	<Message key="msg_81" value="Register success: Data for [{1} {2}] of [{0}] is successfully registered."/>
+	<Message key="msg_82" value="Register fail: Data for [{1} {2}] of [{0}] is failed. Error code: [{3}]"/>
+	<Message key="msg_83" value="Obstacle occurred during registering. Please try again."/>
+	<Message key="msg_84" value="Register success: Data for [{1} {2}, {3} {4}] of [{0}] is successfully registered."/>
+	<Message key="msg_85" value="Register fail: Data for [{1} {2}, {3} {4}] of [{0}] is failed. Error code: [{5}]"/>
+	<Message key="msg_86" value="Import complete, but one or more registration failed. Please check register result."/>
+	<Message key="msg_87" value="Import complete and all data registered."/>
+	<Message key="msg_88" value="File upload and data application completed."/>
+	<Message key="msg_89" value="You must select one or more box tag to create box template."/>
+	<Message key="msg_90" value="Modify service item?"/>
+	<Message key="msg_91" value="Invalid date. Please check and input again. "/>
+	<Message key="datatable_01" value="Data does not exist."/>
+	<Message key="datatable_02" value="Internal error occurred."/>
+	<Message key="datatable_03" value="Loading data…"/>
+	<Message key="datatable_04" value="Click to sort ascending order"/>
+	<Message key="datatable_05" value="Click to sort descending order"/>
+	<Message key="text_01" value="Notice"/>
+	<Message key="text_02" value="Log in"/>
+	<Message key="text_03" value="Option"/>
+	<Message key="text_04" value="Remember me"/>
+	<Message key="text_05" value="Log in"/>
+	<Message key="text_06" value="On"/>
+	<Message key="text_07" value="Off"/>
+	<Message key="text_08" value="Log out"/>
+	<Message key="text_09" value="OK"/>
+	<Message key="text_10" value="Cancel"/>
+	<Message key="text_11" value="Error"/>
+	<Message key="text_12" value="Quick menu"/>
+	<Message key="text_13" value="Search"/>
+	<Message key="text_14" value="Use"/>
+	<Message key="text_15" value="Do not use"/>
+	<Message key="text_16" value="First"/>
+	<Message key="text_17" value="Previous"/>
+	<Message key="text_18" value="Next"/>
+	<Message key="text_19" value="End"/>
+	<Message key="text_20" value="Delete"/>
+	<Message key="text_21" value="Modify"/>
+	<Message key="text_22" value="Input error"/>
+	<Message key="text_23" value="Register"/>
+	<Message key="text_24" value="TERA"/>
+	<Message key="text_25" value="Date"/>
+	<Message key="text_26" value="Time"/>
+	<Message key="text_27" value="Add tag"/>
+	<Message key="text_28" value="Add"/>
+	<Message key="text_29" value="Reset"/>
+	<Message key="text_30" value="User number"/>
+	<Message key="text_31" value="Server number"/>
+	<Message key="text_32" value="Character number"/>
+	<Message key="text_33" value="Add item"/>
+	<Message key="text_34" value="Create"/>
+	<Message key="text_35" value="Item tag"/>
+	<Message key="text_36" value="Box tag"/>
+	<Message key="text_37" value="Service item"/>
+	<Message key="text_38" value="Box template"/>
+	<Message key="text_39" value="Add to export list"/>
+	<Message key="text_40" value="Download selected list"/>
+	<Message key="text_41" value="File download"/>
+	<Message key="text_42" value="File upload"/>
+	<Message key="text_43" value="Import data"/>
+	<Message key="text_44" value="Start data register operation"/>
+	<Message key="text_45" value="Service item file"/>
+	<Message key="text_46" value="Service item tag file"/>
+	<Message key="text_47" value="Box template file"/>
+	<Message key="text_48" value="Service item tag value"/>
+	<Message key="text_49" value="Box template tag value"/>
+	<Message key="text_50" value="Box template item"/>
+	<Message key="text_51" value="Box template item tag value"/>
+	<Message key="text_52" value="Box usage information"/>
+	<Message key="PaneText_1" value="Service item tag list"/>
+	<Message key="PaneText_2" value="Service item tag property"/>
+	<Message key="PaneText_3" value="Create item tag"/>
+	<Message key="PaneText_4" value="Box tag list"/>
+	<Message key="PaneText_5" value="Box tag property"/>
+	<Message key="PaneText_6" value="Create box tag"/>
+	<Message key="PaneText_7" value="Service item list"/>
+	<Message key="PaneText_8" value="Service item property"/>
+	<Message key="PaneText_9" value="Box list"/>
+	<Message key="PaneText_10" value="Box property"/>
+	<Message key="PaneText_11" value="Register service item"/>
+	<Message key="PaneText_12" value="Create box"/>
+	<Message key="PaneText_13" value="Box template list"/>
+	<Message key="PaneText_14" value="Create box template"/>
+	<Message key="PaneText_15" value="Export box data"/>
+	<Message key="PaneText_16" value="Import box data"/>
+	<Message key="PaneText_17" value="Export box language data"/>
+	<Message key="PaneText_18" value="Import box language data"/>
+	<Message key="PaneText_19" value="Create box with box template"/>
+	<Message key="PaneText_20" value="Box template detail"/>
+	<Message key="PaneText_21" value="Import language data"/>
+	<Message key="err_nocode" value="No message defined as error code exists."/>
+	<Message key="err_16776967" value="Exact input factor required."/>
+	<Message key="err_83886180" value="ID or Password does not match."/>
+	<Message key="err_83886291" value="Duplicated log in. Previous log in session was terminated."/>
+	<Message key="err_83886292" value="Session expired."/>
+	<Message key="err_83886293" value="Client IP changed. Please log in again."/>
+	<Message key="err_436208615" value="STEER session expired. Please log in again."/>
+	<Message key="err_436208616" value="Cannot access to box system. Please check server status."/>
+	<Message key="err_436208617" value="Breakdown occurred during communication. Please check server status."/>
+	<Message key="err_436208618" value="You do not have authority. Please contact administrator."/>
+	<Message key="err_436208619" value="Unknown error. Please contact administrator."/>
+	<Message key="err_436208620" value="You have no authority. Please contact administrator."/>
+	<Message key="err_436208621" value="Invalid localizing data. Please contact administrator."/>
+	<Message key="err_436208622" value="Invalid data. Please contact administrator."/>
+	<Message key="err_436208623" value="Exceptional situation occurred. Please contact administrator."/>
+	<Message key="err_402655186" value="Same box tag name already exists."/>
+	<Message key="err_402656386" value="Same item tag name already exists."/>
+	<Message key="err_402655786" value="Service item tag was not entered."/>
+	<Message key="err_402658987" value="Cannot create box with unused box template."/>
+	<Message key="err_402658986" value="Cannot create box with not existing box template."/>
+	<Message key="col_serviceItemTagSN" value="Tag number"/>
+	<Message key="col_serviceItemTagName" value="Tag name"/>
+	<Message key="col_serviceItemTagDescription" value="Tag description"/>
+	<Message key="col_serviceItemValidationRuleSN" value="Verification rule"/>
+	<Message key="col_serviceItemValidationValue" value="Verification value"/>
+	<Message key="col_serviceItemTagEnableFlag" value="Tag use"/>
+	<Message key="col_serviceItemTag" value="Tag"/>
+	<Message key="col_boxTagSN" value="Tag number"/>
+	<Message key="col_boxTagName" value="Tag name"/>
+	<Message key="col_boxTagDescription" value="Tag description"/>
+	<Message key="col_boxTagEnableFlag" value="Tag use"/>
+	<Message key="col_serviceItemSN" value="Item number"/>
+	<Message key="col_serviceItemServiceSN" value="Service number"/>
+	<Message key="col_serviceItemMappingItemSN" value="Item mapping number"/>
+	<Message key="col_serviceItemEnableFlag" value="Item activate"/>
+	<Message key="col_serviceItemStartActivationDateTime" value="Item activated time"/>
+	<Message key="col_serviceItemRegisterUserSN" value="Item registrant"/>
+	<Message key="col_serviceItemRegisterDateTime" value="Item registered time"/>
+	<Message key="col_boxSN" value="Box number"/>
+	<Message key="col_receiverServiceSN" value="Service number"/>
+	<Message key="col_receiverUserSN" value="User number"/>
+	<Message key="col_receiverGUSID" value="Server number"/>
+	<Message key="col_receiverCharacterSN" value="Character number"/>
+	<Message key="col_receiverCharacterName" value="Character name"/>
+	<Message key="col_boxStateCode" value="Box status"/>
+	<Message key="col_createDateTime" value="Registered time"/>
+	<Message key="col_openDateTime" value="Opened time"/>
+	<Message key="col_useDateTime" value="Activated time"/>
+	<Message key="col_deleteDateTime" value="Deleted time"/>
+	<Message key="col_externalTransactionKey" value="External system link key"/>
+	<Message key="col_startActivationDateTime" value="Activation start time"/>
+	<Message key="col_endActivationDateTime" value="Activation end time"/>
+	<Message key="col_activateDurationAfterOpen" value="Available time after open(sec)"/>
+	<Message key="col_visableFlagBeforeActivation" value="Show box before activate"/>
+	<Message key="col_boxTagValue" value="Box tag value"/>
+	<Message key="col_serviceItemTagValue" value="Item tag value"/>
+	<Message key="col_mappingItemSN" value="Mapping item ID"/>
+	<Message key="col_serviceItem" value="Item"/>
+	<Message key="col_boxTag" value="Box tag"/>
+	<Message key="col_serviceItemName" value="Item name"/>
+	<Message key="col_serviceItemDescription" value="Item description"/>
+	<Message key="col_boxTemplateSN" value="Box template number"/>
+	<Message key="col_boxTemplateTitle" value="Box template name"/>
+	<Message key="col_boxTemplateServiceSN" value="Box template service number"/>
+	<Message key="col_boxTemplateCreateUserSN" value="Box template creator"/>
+	<Message key="col_boxTemplateCreateDateTime" value="Box template creation time"/>
+	<Message key="col_boxTemplateStartActivationDateTime" value="Start using time"/>
+	<Message key="col_boxTemplateEndActivationDateTime" value="End using time"/>
+	<Message key="col_boxTemplateActivateDurationAfterOpen" value="Available time after open(sec)"/>
+	<Message key="col_boxTemplateVisableFlagBeforeActivation" value="Show box before activate"/>
+	<Message key="col_boxTemplateEnableFlag" value="Box template use"/>
+	<Message key="col_validationValueSN" value="Verification value number"/>
+	<Message key="col_boxTemplateItemSN" value="Box template item number"/>
+	<Message key="code_enableFlag_1" value="Used"/>
+	<Message key="code_enableFlag_0" value="Unused"/>
+	<Message key="code_boxStateCode_1" value="UNOPEN"/>
+	<Message key="code_boxStateCode_2" value="OPENED"/>
+	<Message key="code_boxStateCode_3" value="USED"/>
+	<Message key="code_boxStateCode_4" value="DELETED"/>
+	<Message key="code_visableFlagBeforeActivation_0" value="Show"/>
+	<Message key="code_visableFlagBeforeActivation_1" value="Do not show"/>
+</Box>

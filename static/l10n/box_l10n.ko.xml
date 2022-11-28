@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Box>
+    <Message key="notice" value="로그인은 STEER 아이디, 패스워드를 입력하세요. [nl]권한이 등록되어 있어야 합니다. 등록은 관리자에게 문의하세요. [nl][nl]BOX 시스템은 Firefox 9.0.1, 10, 13.0.1 버젼을 지원합니다. [nl]InternetExplorer 및 기타 브라우저에서는 정상 동작을 보장하지 않습니다."/>
+    <Message key="productTitle" value="Item Management System"/>
+    <Message key="msg_01" value="패스워드가 일치하지 않습니다."/>
+    <Message key="msg_02" value="로딩중입니다. 잠시만 기다려 주세요."/>
+    <Message key="msg_03" value=" 님 반갑습니다."/>
+    <Message key="msg_04" value=" 서버 접속 중"/>
+    <Message key="msg_05" value=" 로그인 중..."/>
+    <Message key="msg_06" value="아이디를 입력 해 주세요."/>
+    <Message key="msg_07" value="패스워드를 입력 해 주세요."/>
+    <Message key="msg_08" value="요청중입니다. 잠시만 기다려 주세요."/>
+    <Message key="msg_09" value=" 님이 접속하셨습니다."/>
+    <Message key="msg_10" value="로그아웃 하시겠습니까?"/>
+    <Message key="msg_11" value="사용 가능한 권한이 없습니다. 관리자에게 문의하세요."/>
+    <Message key="msg_12" value="퀵 메뉴가 설정되어 있지 않습니다."/>
+    <Message key="msg_13" value="선택된 목록이 없습니다."/>
+    <Message key="msg_14" value="리스트에서 선택하거나 등록 메뉴를 선택 해 주세요."/>
+    <Message key="msg_15" value="로딩 중 입니다."/>
+    <Message key="msg_16" value=" 번 서비스 아이템 태그를 삭제하시겠습니까?"/>
+    <Message key="msg_17" value=" 번 서비스 아이템 태그가 삭제되었습니다."/>
+    <Message key="msg_18" value="입력 값을 확인 해 주세요."/>
+    <Message key="msg_19" value=" 번 아이템 태그는 삭제되며, 새로운 아이템 태그가 등록됩니다. 계속하시겠습니까?"/>
+    <Message key="msg_20" value="시스템 오류로 수정 대상이 삭제된 후 등록되지 않았을 수 있습니다. 확인 바랍니다."/>
+    <Message key="msg_21" value=" 번 아이템 태그가 동일하게 등록되었습니다."/>
+    <Message key="msg_22" value=" 번 아이템 태그가 등록되었습니다."/>
+    <Message key="msg_23" value=" 컬럼은 반드시 숫자로 입력해야 합니다."/>
+    <Message key="msg_24" value=" 번 박스 태그를 삭제하시겠습니까?"/>
+    <Message key="msg_25" value=" 번 박스 태그가 삭제되었습니다."/>
+    <Message key="msg_26" value=" 번 박스 태그는 삭제되며, 새로운 박스 태그가 등록됩니다. 계속하시겠습니까?"/>
+    <Message key="msg_27" value=" 번 박스 태그가 동일하게 등록되었습니다."/>
+    <Message key="msg_28" value=" 번 박스 태그가 등록되었습니다."/>
+    <Message key="msg_29" value=" 번 서비스 아이템을 삭제하시겠습니까?"/>
+    <Message key="msg_30" value=" 번 서비스 아이템이 삭제되었습니다."/>
+    <Message key="msg_31" value="날짜를 선택 해 주세요."/>
+    <Message key="msg_32" value="아이템 매핑 번호를 입력 해 주세요."/>
+    <Message key="msg_33" value=" 번 서비스 아이템이 등록되었습니다."/>
+    <Message key="msg_34" value=" 번 태그 검증 값이 입력되지 않았습니다."/>
+    <Message key="msg_35" value="서비스 아이템을 등록 하시겠습니까?"/>
+    <Message key="msg_36" value=" 번 박스가 삭제되었습니다."/>
+    <Message key="msg_37" value=" 번 박스를 삭제하시겠습니까?"/>
+    <Message key="msg_38" value="요청중입니다. 잠시만 기다려 주세요."/>
+    <Message key="msg_39" value="선택하신 아이템 중 이미 추가된 아이템이 존재합니다."/>
+    <Message key="msg_40" value="유저 번호를 입력 해 주세요."/>
+    <Message key="msg_41" value="사용 종료 시각은 사용 시작 시각과 같거나 이전일 수 없습니다."/>
+    <Message key="msg_42" value="박스를 생성하기 위해서는 반드시 하나 이상의 아이템을 선택 해야 합니다."/>
+    <Message key="msg_43" value=" 번 태그 값이 입력되지 않았습니다."/>
+    <Message key="msg_44" value=" 태그 이름의 값이 입력되지 않았습니다."/>
+    <Message key="msg_45" value="해당 내용으로 박스를 생성 하시겠습니까?"/>
+    <Message key="msg_46" value=" 번 박스가 생성되었습니다."/>
+    <Message key="msg_47" value="아이템 태그를 등록하시겠습니까?"/>
+    <Message key="msg_48" value="박스 태그를 등록하시겠습니까?"/>
+    <Message key="msg_49" value="해당 내용으로 박스 템플릿을 생성 하시겠습니까?"/>
+    <Message key="msg_50" value=" 번 박스 템플릿이 생성되었습니다."/>
+    <Message key="msg_51" value="내보내기 할 데이터가 없습니다."/>
+    <Message key="msg_52" value=" 필드는 반드시 숫자로 입력해야 합니다."/>
+    <Message key="msg_53" value="박스 템플릿 번호를 입력해주세요."/>
+    <Message key="msg_54" value=" 번 박스 템플릿을 삭제하시겠습니까?"/>
+    <Message key="msg_55" value=" 번 박스 템플릿이 삭제되었습니다."/>
+    <Message key="msg_56" value="내보내기 데이터의 정보는 다음과 같습니다."/>
+    <Message key="msg_57" value="아래 링크를 통해 다운로드 받으실 수 있습니다."/>
+    <Message key="msg_58" value="포함된 서비스 아이템 태그 수:"/>
+    <Message key="msg_59" value="포함된 박스 태그 수:"/>
+    <Message key="msg_60" value="포함된 서비스 아이템 수:"/>
+    <Message key="msg_61" value="포함된 박스 템플릿 수:"/>
+    <Message key="msg_62" value="파일 업로드가 완료되면, 파일 내 가져오기 할 데이터가 이곳에 표시됩니다."/>
+    <Message key="msg_63" value="파일을 선택한 후 정보를 확인 후 업로드를 선택 해 주세요."/>
+    <Message key="msg_64" value="{file} 파일의 확장자가 잘못되었습니다. 오직 {extensions} 형식의 파일만 허용됩니다."/>
+    <Message key="msg_65" value="{file} 파일의 최대 허용 크기를 초과하였습니다. 파일의 최대 허용 크기는 {sizeLimit} 입니다."/>
+    <Message key="msg_66" value="{file} 파일의 최소 허용 크기 미만입니다. 파일의 최소 크기는 {minSizeLimit} 입니다."/>
+    <Message key="msg_67" value="{file} 파일이 비었습니다. 다시 업로드 해 주세요."/>
+    <Message key="msg_68" value="현재 파일이 업로드 중 입니다. 페이지를 벗어날 경우 파일 업로드가 취소됩니다." />
+    <Message key="msg_69" value="파일 내 하나 이상의 데이터가 이미 시스템에 등록되어 있습니다. 분석 정보를 확인한 후 진행 해 주시기 바랍니다."/>
+    <Message key="msg_70" value="파일 업로드 완료 후 분석 결과와 등록 버튼이 이곳에 표시됩니다."/>
+    <Message key="msg_71" value="파일 업로드가 완료되었으며, 데이터에 대한 분석작업이 완료되었습니다."/>
+    <Message key="msg_72" value="시스템 내 저장된 해당 파일 이름: "/>
+    <Message key="msg_73" value="파일 업로드 및 데이터 분석작업 진행중..."/>
+    <Message key="msg_74" value="분석결과 해당 데이터를 등록하는데 문제가 발견되지 않았습니다."/>
+    <Message key="msg_75" value="등록 작업 시작 후 취소 할 수 없습니다. 계속하시겠습니까?"/>
+    <Message key="msg_76" value="등록: [{0}]의 [{1} {2}]에 해당하는 데이터가 이미 등록되어 있습니다."/>
+    <Message key="msg_77" value="값: [{0}]의 [{1} {2}]의 데이터 컬럼 [{3}]의 값이 파일 [{4}], 시스템 [{5}]로 서로 다릅니다."/>
+    <Message key="msg_78" value="등록: [{0}]의 [{1} {2}, {3} {4}]에 해당하는 데이터가 이미 등록되어 있습니다."/>
+    <Message key="msg_79" value="값: [{0}]의 [{1} {2}, {3} {4}]의 데이터 컬럼 [{5}]의 값이 파일 [{6}], 시스템 [{7}]로 서로 다릅니다."/>
+    <Message key="msg_80" value="데이터 등록중..."/>
+    <Message key="msg_81" value="등록 성공: [{0}]의 [{1} {2}]에 대한 데이터 등록이 성공하였습니다."/>
+    <Message key="msg_82" value="등록 실패: [{0}]의 [{1} {2}]에 대한 데이터 등록이 실패하였습니다. 오류코드: [{3}]"/>
+    <Message key="msg_83" value="등록 중 장애가 발생하였습니다. 다시 시도 해 주세요."/>
+    <Message key="msg_84" value="등록 성공: [{0}]의 [{1} {2}, {3} {4}]에 대한 데이터 등록이 성공하였습니다."/>
+    <Message key="msg_85" value="등록 실패: [{0}]의 [{1} {2}, {3} {4}]에 대한 데이터 등록이 실패하였습니다. 오류코드: [{5}]"/>
+    <Message key="msg_86" value="가져오기가 완료되었으나, 하나 이상의 등록이 실패하였습니다. 등록 결과를 확인 해 주세요."/>
+    <Message key="msg_87" value="가져오기가 완료되었으며, 모든 데이터가 성공적으로 등록되었습니다."/>
+    <Message key="msg_88" value="파일 업로드 및 데이터 적용이 완료되었습니다."/>
+    <Message key="msg_89" value="박스 템플릿을 생성하기 위해서는 반드시 하나 이상의 박스 태그를 선택 해야 합니다."/>
+    <Message key="msg_90" value=" 번 서비스 아이템을 수정하시겠습니까?"/>
+    <Message key="msg_91" value="날짜가 잘못되었습니다. 다시 확인하시고 입력 해 주세요."/>
+    <Message key="msg_92" value="하나 이상의 박스 상태를 선택 해야 합니다."/>
+    <Message key="msg_93" value="유저번호는 반드시 입력 해야 합니다."/>
+    <Message key="msg_94" value="검증규칙은 현재 1: 숫자, 2: 문자 만 지원합니다."/>
+    <Message key="msg_95" value="검증규칙은 숫자만 가능합니다."/>
+    <Message key="msg_96" value="검증규칙은 숫자(0~2147483647)만 가능합니다."/>
+    <Message key="msg_97" value="검증규칙은 문자(255자까지)만 가능합니다."/>
+    <Message key="msg_98" value="검증규칙이 잘못 설정되어 있습니다. 관리자에게 문의하세요."/>
+    <Message key="msg_99" value="동일한 아이템 맵핑번호가 존재 합니다. 서비스 아이템을 등록하시겠습니까?"/>
+    <Message key="datatable_01" value="데이터가 존재하지 않습니다."/>
+    <Message key="datatable_02" value="내부 오류가 발생하였습니다."/>
+    <Message key="datatable_03" value="데이터 로딩중..."/>
+    <Message key="datatable_04" value="오름차순으로 정렬하려면 클릭"/>
+    <Message key="datatable_05" value="내림차순으로 정렬하려면 클릭"/>
+    <Message key="text_01" value="공지사항"/>
+    <Message key="text_02" value="로그인"/>
+    <Message key="text_03" value="옵션"/>
+    <Message key="text_04" value="계정정보 저장"/>
+    <Message key="text_05" value="로그인"/>
+    <Message key="text_06" value="켜짐"/>
+    <Message key="text_07" value="꺼짐"/>
+    <Message key="text_08" value="로그아웃"/>
+    <Message key="text_09" value="확인"/>
+    <Message key="text_10" value="취소"/>
+    <Message key="text_11" value="오류"/>
+    <Message key="text_12" value="퀵메뉴"/>
+    <Message key="text_13" value="검색"/>
+    <Message key="text_14" value="사용"/>
+    <Message key="text_15" value="미사용"/>
+    <Message key="text_16" value="처음"/>
+    <Message key="text_17" value="이전"/>
+    <Message key="text_18" value="다음"/>
+    <Message key="text_19" value="끝"/>
+    <Message key="text_20" value="삭제"/>
+    <Message key="text_21" value="수정"/>
+    <Message key="text_22" value="입력오류"/>
+    <Message key="text_23" value="등록"/>
+    <Message key="text_24" value="TERA"/>
+    <Message key="text_25" value="날짜"/>
+    <Message key="text_26" value="시간"/>
+    <Message key="text_27" value="태그 추가"/>
+    <Message key="text_28" value="추가"/>
+    <Message key="text_29" value="리셋"/>
+    <Message key="text_30" value="유저번호"/>
+    <Message key="text_31" value="서버번호"/>
+    <Message key="text_32" value="캐릭터번호"/>
+    <Message key="text_33" value="아이템 추가"/>
+    <Message key="text_34" value="생성"/>
+    <Message key="text_35" value="아이템 태그"/>
+    <Message key="text_36" value="박스 태그"/>
+    <Message key="text_37" value="서비스 아이템"/>
+    <Message key="text_38" value="박스 템플릿"/>
+    <Message key="text_39" value="내보내기 목록에 추가"/>
+    <Message key="text_40" value="선택 목록 다운로드"/>
+    <Message key="text_41" value="파일 다운로드"/>
+    <Message key="text_42" value="파일 업로드"/>
+    <Message key="text_43" value="데이터 가져오기"/>
+    <Message key="text_44" value="데이터 등록 작업 시작"/>
+    <Message key="text_45" value="서비스 아이템 파일"/>
+    <Message key="text_46" value="서비스 아이템 태그 파일"/>
+    <Message key="text_47" value="박스 템플릿 파일"/>
+    <Message key="text_48" value="서비스 아이템 태그 값"/>
+    <Message key="text_49" value="박스 템플릿 태그 값"/>
+    <Message key="text_50" value="박스 템플릿 아이템"/>
+    <Message key="text_51" value="박스 템플릿 아이템 태그 값"/>
+    <Message key="text_52" value="박스 사용 정보"/>
+    <Message key="text_53" value="내보내기 기록"/>
+    <Message key="text_54" value="내보내기 이름"/>
+    <Message key="text_55" value="스크립트 다운로드"/>
+    <Message key="text_56" value="검증규칙 1: 숫자(0~2147483647), 2: 문자(255자까지)"/>
+    <Message key="text_57" value="박스 태그 파일"/>
+    <Message key="text_58" value="내보내기 기록에 저장"/>
+    <Message key="text_59" value="아이템샵(BoxServiceItem) 파일"/>
+    <Message key="text_60" value="언어데이터 파일"/>
+    <Message key="text_61" value="아이템샵(BoxTemplate) 파일"/>
+    <Message key="PaneText_1" value="아이템 태그 목록"/>
+    <Message key="PaneText_2" value="아이템 태그 상세 정보"/>
+    <Message key="PaneText_3" value="아이템 태그 만들기"/>
+    <Message key="PaneText_4" value="박스 태그 목록"/>
+    <Message key="PaneText_5" value="박스 태그 상세 정보"/>
+    <Message key="PaneText_6" value="박스 태그 만들기"/>
+    <Message key="PaneText_7" value="서비스 아이템 목록"/>
+    <Message key="PaneText_8" value="서비스 아이템 상세 정보"/>
+    <Message key="PaneText_9" value="박스 목록"/>
+    <Message key="PaneText_10" value="박스 상세 정보"/>
+    <Message key="PaneText_11" value="서비스 아이템 등록"/>
+    <Message key="PaneText_12" value="박스 생성"/>
+    <Message key="PaneText_13" value="박스 템플릿 목록"/>
+    <Message key="PaneText_14" value="박스 템플릿 생성"/>
+    <Message key="PaneText_15" value="박스 데이터 내보내기"/>
+    <Message key="PaneText_16" value="박스 데이터 가져오기"/>
+    <Message key="PaneText_17" value="박스 언어 데이터 내보내기"/>
+    <Message key="PaneText_18" value="박스 언어 데이터 가져오기"/>
+    <Message key="PaneText_19" value="박스 템플릿을 이용한 박스 생성"/>
+    <Message key="PaneText_20" value="박스 템플릿 상세 정보"/>
+    <Message key="PaneText_21" value="언어 데이터 가져오기"/>
+    <Message key="err_nocode" value="에러코드에 정의된 메세지가 존재하지 않습니다."/>
+    <Message key="err_16776967" value="정확한 입력 인자가 필요합니다."/>
+    <Message key="err_83886180" value="아이디 또는 패스워드가 일치하지 않습니다"/>
+    <Message key="err_83886291" value="중복로그인 되었습니다. 기존 로그인 세션은 강제만료되었습니다."/>
+    <Message key="err_83886292" value="세션이 만료되었습니다."/>
+    <Message key="err_83886293" value="클라이언트의 IP 가 변경되었습니다. 다시 로그인 해 주세요."/>
+    <Message key="err_436208615" value="STEER세션이 만료되었습니다. 재 로그인 해 주세요."/>
+    <Message key="err_436208616" value="Box 시스템에 연결 할 수 없습니다. 서버 상태를 확인 해 주세요."/>
+    <Message key="err_436208617" value="통신 중 장애가 발생하였습니다. 서버 상태를 확인 해 주세요."/>
+    <Message key="err_436208618" value="사용 가능한 권한이 없습니다. 관리자에게 문의하세요."/>
+    <Message key="err_436208619" value="알수 없는 오류입니다. 관리자에게 문의하세요."/>
+    <Message key="err_436208620" value="권한이 없습니다. 관리자에게 문의하세요."/>
+    <Message key="err_436208621" value="로컬라이징 데이터가 잘못되었습니다. 관리자에게 문의하세요."/>
+    <Message key="err_436208622" value="잘못된 데이터 입니다. 관리자에게 문의하세요."/>
+    <Message key="err_436208623" value="예외 상황이 발생하였습니다. 관리자에게 문의하세요."/>
+    <Message key="err_402655186" value="동일한 이름의 박스 태그가 이미 존재합니다."/>
+    <Message key="err_402656386" value="동일한 이름의 아이템 태그가 이미 존재합니다."/>
+    <Message key="err_402655786" value="서비스 아이템 태그가 입력되지 않았습니다."/>
+    <Message key="err_402658987" value="미사용 처리된 박스 템플릿으로는 박스를 만들 수 없습니다."/>
+    <Message key="err_402658986" value="존재하지 않는 박스 템플릿으로 박스를 만들 수 없습니다."/>
+    <Message key="col_serviceItemTagSN" value="태그번호"/>
+    <Message key="col_serviceItemTagName" value="태그이름"/>
+    <Message key="col_serviceItemTagDescription" value="태그설명"/>
+    <Message key="col_serviceItemValidationRuleSN" value="검증규칙"/>
+    <Message key="col_serviceItemValidationValue" value="검증 값"/>
+    <Message key="col_serviceItemTagEnableFlag" value="태그사용"/>
+    <Message key="col_serviceItemTag" value="태그"/>
+    <Message key="col_boxTagSN" value="태그번호"/>
+    <Message key="col_boxTagName" value="태그이름"/>
+    <Message key="col_boxTagDescription" value="태그설명"/>
+    <Message key="col_boxTagEnableFlag" value="태그사용"/>
+    <Message key="col_serviceItemSN" value="아이템번호"/>
+    <Message key="col_serviceItemServiceSN" value="서비스번호"/>
+    <Message key="col_serviceItemMappingItemSN" value="아이템 맵핑번호"/>
+    <Message key="col_serviceItemEnableFlag" value="아이템사용"/>
+    <Message key="col_serviceItemStartActivationDateTime" value="사용시작시각"/>
+    <Message key="col_serviceItemRegisterUserSN" value="아이템등록자"/>
+    <Message key="col_serviceItemRegisterDateTime" value="아이템등록시각"/>
+    <Message key="col_boxSN" value="박스 번호"/>
+    <Message key="col_receiverServiceSN" value="서비스 번호"/>
+    <Message key="col_receiverUserSN" value="유저 번호"/>
+    <Message key="col_receiverGUSID" value="서버 번호"/>
+    <Message key="col_receiverCharacterSN" value="캐릭터 번호"/>
+    <Message key="col_receiverCharacterName" value="캐릭터 이름"/>
+    <Message key="col_boxStateCode" value="박스 상태"/>
+    <Message key="col_createDateTime" value="등록 시각"/>
+    <Message key="col_openDateTime" value="오픈 시각"/>
+    <Message key="col_useDateTime" value="사용 시각"/>
+    <Message key="col_deleteDateTime" value="삭제 시각"/>
+    <Message key="col_externalTransactionKey" value="외부 시스템 연동 Key"/>
+    <Message key="col_startActivationDateTime" value="사용 시작 시각"/>
+    <Message key="col_endActivationDateTime" value="사용 종료 시각"/>
+    <Message key="col_activateDurationAfterOpen" value="오픈 후 사용 가능 시간(초)"/>
+    <Message key="col_visableFlagBeforeActivation" value="사용 시작 전 보이기 여부"/>
+    <Message key="col_boxTagValue" value="박스 태그 값"/>
+    <Message key="col_serviceItemTagValue" value="아이템 태그 값"/>
+    <Message key="col_mappingItemSN" value="맵핑 아이템 아이디"/>
+    <Message key="col_serviceItem" value="아이템"/>
+    <Message key="col_boxTag" value="박스 태그"/>
+    <Message key="col_serviceItemName" value="아이템 이름"/>
+    <Message key="col_serviceItemDescription" value="아이템 설명"/>
+    <Message key="col_boxTemplateSN" value="박스 템플릿 번호"/>
+    <Message key="col_boxTemplateTitle" value="박스 템플릿 이름"/>
+    <Message key="col_boxTemplateServiceSN" value="박스 템플릿 서비스 번호"/>
+    <Message key="col_boxTemplateCreateUserSN" value="박스 템플릿 생성자"/>
+    <Message key="col_boxTemplateCreateDateTime" value="박스 템플릿 생성 시각"/>
+    <Message key="col_boxTemplateStartActivationDateTime" value="사용 시작 시각"/>
+    <Message key="col_boxTemplateEndActivationDateTime" value="사용 종료 시각"/>
+    <Message key="col_boxTemplateActivateDurationAfterOpen" value="오픈 후 사용 가능 시간(초)"/>
+    <Message key="col_boxTemplateVisableFlagBeforeActivation" value="사용 시작 전 보이기 여부"/>
+    <Message key="col_boxTemplateEnableFlag" value="박스 템플릿 사용 여부"/>
+    <Message key="col_validationValueSN" value="검증 값 번호"/>
+    <Message key="col_boxTemplateItemSN" value="박스 템플릿 아이템번호"/>
+    <Message key="col_boxItemSN" value="박스 아이템 번호"/>
+    <Message key="col_internalItemKey" value="게임 아이템 번호"/>
+    <Message key="col_exportHistorySN" value="내보내기 번호"/>
+    <Message key="col_exportHistoryName" value="내보내기 이름"/>
+    <Message key="col_createUserSN" value="내보낸 유저"/>
+    <Message key="code_enableFlag_1" value="사용"/>
+    <Message key="code_enableFlag_0" value="미사용"/>
+    <Message key="code_boxStateCode_1" value="UNOPEN"/>
+    <Message key="code_boxStateCode_2" value="OPENED"/>
+    <Message key="code_boxStateCode_3" value="USED"/>
+    <Message key="code_boxStateCode_4" value="DELETED"/>
+    <Message key="code_visableFlagBeforeActivation_0" value="안보임"/>
+    <Message key="code_visableFlagBeforeActivation_1" value="보임"/>
+    <Message key="code_serviceItemValidationRuleSN_1" value="숫자(0~2147483647)"/>
+    <Message key="code_serviceItemValidationRuleSN_2" value="문자(255자까지)"/>
+    <Message key="code_serviceItemValidationValue_1" value="숫자(0~2147483647)"/>
+    <Message key="code_serviceItemValidationValue_2" value="문자(255자까지)"/>
+</Box>

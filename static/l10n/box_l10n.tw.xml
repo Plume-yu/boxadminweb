@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Box>
+	<Message key="notice" value="盒子系统.&#xA;请输入授权STEER ID和密码登录。"/>
+	<Message key="productTitle" value="物品管理系统"/>
+	<Message key="msg_01" value="密码不匹配。"/>
+	<Message key="msg_02" value="加载中请稍候。"/>
+	<Message key="msg_03" value="欢迎。"/>
+	<Message key="msg_04" value="正在访问服务器。"/>
+	<Message key="msg_05" value="登录中..."/>
+	<Message key="msg_06" value="请输入ID。"/>
+	<Message key="msg_07" value="请输入密码。"/>
+	<Message key="msg_08" value="请求中。请稍候。"/>
+	<Message key="msg_09" value=" 已登录。"/>
+	<Message key="msg_10" value="确定退出吗？"/>
+	<Message key="msg_11" value="您没有权限，请联系管理员。"/>
+	<Message key="msg_12" value="快捷菜单未设置。"/>
+	<Message key="msg_13" value="没有选择列表。"/>
+	<Message key="msg_14" value="请从列表中选择或选择注册菜单。"/>
+	<Message key="msg_15" value="正在加载。"/>
+	<Message key="msg_16" value=" 服务项标签将被删除。是否继续？"/>
+	<Message key="msg_17" value="服务项标签已删除。"/>
+	<Message key="msg_18" value="请验证输入值。"/>
+	<Message key="msg_19" value=" item 标签将被删除并注册新的 item 标签。是否继续？"/>
+	<Message key="msg_20" value="由于系统错误，删除后未注册修改目标，请验证。"/>
+	<Message key="msg_21" value=" item tag 被重复注册。"/>
+	<Message key="msg_22" value=" item tag 已注册。"/>
+	<Message key="msg_23" value="一列只允许数字。"/>
+	<Message key="msg_24" value=" box 标签将被删除。是否继续？"/>
+	<Message key="msg_25" value=" box 标签被删除。"/>
+	<Message key="msg_26" value=" box 标签将被删除并注册新的 box 标签。是否继续？"/>
+	<Message key="msg_27" value=" box 标签被重复注册。"/>
+	<Message key="msg_28" value=" box 标签已注册。"/>
+	<Message key="msg_29" value="服务项将被删除。是否继续？"/>
+	<Message key="msg_30" value="服务项被删除。"/>
+	<Message key="msg_31" value="请选择日期。"/>
+	<Message key="msg_32" value="请输入项目映射号。"/>
+	<Message key="msg_33" value="服务项已注册。"/>
+	<Message key="msg_34" value="标签验证值未输入。"/>
+	<Message key="msg_35" value="注册服务项目？"/>
+	<Message key="msg_36" value="框被删除。"/>
+	<Message key="msg_37" value=" 框将被删除。是否继续？"/>
+	<Message key="msg_38" value="请求中。请稍候。"/>
+	<Message key="msg_39" value="部分选择项已添加。"/>
+	<Message key="msg_40" value="请输入用户号。"/>
+	<Message key="msg_41" value="结束使用时间不能与开始使用时间相同或更早。"/>
+	<Message key="msg_42" value="必须选择一个或多个项目才能创建一个框。"/>
+	<Message key="msg_43" value="标签值未输入。"/>
+	<Message key="msg_44" value="未输入标签名称的值。"/>
+	<Message key="msg_45" value="用这些内容创建一个盒子？"/>
+	<Message key="msg_46" value=" 框已创建。"/>
+	<Message key="msg_47" value="注册物品标签？"/>
+	<Message key="msg_48" value="注册框标签？"/>
+	<Message key="msg_49" value="创建包含此内容的框模板？"/>
+	<Message key="msg_50" value=" box 模板已创建。"/>
+	<Message key="msg_51" value="没有要导出的数据。"/>
+	<Message key="msg_52" value="字段必须是数字。"/>
+	<Message key="msg_53" value="请输入框模板号。"/>
+	<Message key="msg_54" value=" box 模板将被删除。是否继续？"/>
+	<Message key="msg_55" value="框模板已删除。"/>
+	<Message key="msg_56" value="导出数据信息："/>
+	<Message key="msg_57" value="您可以通过以下链接下载。"/>
+	<Message key="msg_58" value="包含的服务项标签个数："/>
+	<Message key="msg_59" value="包含框标签个数："/>
+	<Message key="msg_60" value="包含的服务项数："/>
+	<Message key="msg_61" value="包含框模板个数："/>
+	<Message key="msg_62" value="文件上传完成后，这里会显示要导入文件的数据。"/>
+	<Message key="msg_63" value="选择上传前，请选择文件并确认信息。"/>
+	<Message key="msg_64" value="{file} 的文件扩展名无效。只允许 {extensions} 扩展名。"/>
+	<Message key="msg_65" value="{file} 超出了允许的最大文件大小。允许的最大文件大小应为 {sizeLimit}。"/>
+	<Message key="msg_66" value="{file} 低于允许的最小文件大小。允许的最小文件大小应为 {minSizeLimit}。"/>
+	<Message key="msg_67" value="{file} 为空，请重新上传。"/>
+	<Message key="msg_68" value="正在上传文件，移动到其他页面会取消上传。"/>
+	<Message key="msg_69" value="文件中的一个或多个数据已在系统中注册，请检查分析结果并继续。"/>
+	<Message key="msg_70" value="文件上传完成后，会在此处显示分析结果和注册按钮。"/>
+	<Message key="msg_71" value="文件上传和数据分析完成。"/>
+	<Message key="msg_72" value="系统中保存的文件名："/>
+	<Message key="msg_73" value="文件上传和数据分析..."/>
+	<Message key="msg_74" value="数据寄存器没有发现问题。"/>
+	<Message key="msg_75" value="启动后无法取消注册，是否继续？"/>
+	<Message key="msg_76" value="Register: [{0}] 的 [{1} {2}] 的数据已注册。"/>
+	<Message key="msg_77" value="Value: [{0}] 的 [{1} {2}] 的数据列 [{3}] 的值不匹配。它们与文件 [{4} ]，系统 [{5}]。"/>
+	<Message key="msg_78" value="注册：[{0}] 的 [{1} {2} {3} {4}] 的数据已注册。"/>
+	<Message key="msg_79" value="Value: [{0}] 的 [{1} {2} {3} {4}] 的数据列 [{5}] 的值不匹配。它们不同作为文件 [{6}]，系统 [{7}]。"/>
+	<Message key="msg_80" value="正在注册数据..."/>
+	<Message key="msg_81" value="注册成功：[{0}]的[{1} {2}]数据注册成功。"/>
+	<Message key="msg_82" value="注册失败：[{0}] 的 [{1} {2}] 的数据失败。错误代码：[{3}]"/>
+	<Message key="msg_83" value="注册时遇到问题，请重试。"/>
+	<Message key="msg_84" value="注册成功: [{0}] 的 [{1} {2}, {3} {4}] 的数据注册成功。"/>
+	<Message key="msg_85" value="注册失败：[{0}] 的 [{1} {2}, {3} {4}] 的数据失败。错误代码：[{5}]"/>
+	<Message key="msg_86" value="导入完成，但一个或多个注册失败。请查看注册结果。"/>
+	<Message key="msg_87" value="导入完成并注册所有数据。"/>
+	<Message key="msg_88" value="文件上传和数据申请完成。"/>
+	<Message key="msg_89" value="您必须选择一个或多个框标签才能创建框模板。"/>
+	<Message key="msg_90" value="修改服务项？"/>
+	<Message key="msg_91" value="无效日期。请检查并重新输入。"/>
+	<Message key="datatable_01" value="数据不存在。"/>
+	<Message key="datatable_02" value="发生内部错误。"/>
+	<Message key="datatable_03" value="正在加载数据..."/>
+	<Message key="datatable_04" value="点击升序"/>
+	<Message key="datatable_05" value="点击降序"/>
+	<Message key="text_01" value="通知"/>
+	<Message key="text_02" value="登录"/>
+	<Message key="text_03" value="选项"/>
+	<Message key="text_04" value="记住我"/>
+	<Message key="text_05" value="登录"/>
+	<Message key="text_06" value="开"/>
+	<Message key="text_07" value="关"/>
+	<Message key="text_08" value="注销"/>
+	<Message key="text_09" value="好"/>
+	<Message key="text_10" value="取消"/>
+	<Message key="text_11" value="错误"/>
+	<Message key="text_12" value="快捷菜单"/>
+	<Message key="text_13" value="搜索"/>
+	<Message key="text_14" value="利用"/>
+	<Message key="text_15" value="请勿使用"/>
+	<Message key="text_16" value="第一的"/>
+	<Message key="text_17" value="上个"/>
+	<Message key="text_18" value="下一个"/>
+	<Message key="text_19" value="结束"/>
+	<Message key="text_20" value="删除"/>
+	<Message key="text_21" value="修改"/>
+	<Message key="text_22" value="输入错误"/>
+	<Message key="text_23" value="注册"/>
+	<Message key="text_24" value="TERA"/>
+	<Message key="text_25" value="日期"/>
+	<Message key="text_26" value="时间"/>
+	<Message key="text_27" value="添加标签"/>
+	<Message key="text_28" value="添加"/>
+	<Message key="text_29" value="重置"/>
+	<Message key="text_30" value="用户号"/>
+	<Message key="text_31" value="服务器编号"/>
+	<Message key="text_32" value="字符数"/>
+	<Message key="text_33" value="添加项目"/>
+	<Message key="text_34" value="创建"/>
+	<Message key="text_35" value="物品标签"/>
+	<Message key="text_36" value="框标签"/>
+	<Message key="text_37" value="服务项"/>
+	<Message key="text_38" value="框模板"/>
+	<Message key="text_39" value="添加到导出列表"/>
+	<Message key="text_40" value="下载所选列表"/>
+	<Message key="text_41" value="文件下载"/>
+	<Message key="text_42" value="文件上传"/>
+	<Message key="text_43" value="导入数据"/>
+	<Message key="text_44" value="开始数据寄存器操作"/>
+	<Message key="text_45" value="服务项目文件"/>
+	<Message key="text_46" value="服务项标签文件"/>
+	<Message key="text_47" value="Box 模板文件"/>
+	<Message key="text_48" value="服务项标签值"/>
+	<Message key="text_49" value="框模板标签值"/>
+	<Message key="text_50" value="框模板项"/>
+	<Message key="text_51" value="框模板项标签值"/>
+	<Message key="text_52" value="盒子使用信息"/>
+	<Message key="PaneText_1" value="服务项标签列表"/>
+	<Message key="PaneText_2" value="服务项标签属性"/>
+	<Message key="PaneText_3" value="创建项目标签"/>
+	<Message key="PaneText_4" value="框标签列表"/>
+	<Message key="PaneText_5" value="Box 标签属性"/>
+	<Message key="PaneText_6" value="创建框标签"/>
+	<Message key="PaneText_7" value="服务项目列表"/>
+	<Message key="PaneText_8" value="服务项属性"/>
+	<Message key="PaneText_9" value="框列表"/>
+	<Message key="PaneText_10" value="Box 属性"/>
+	<Message key="PaneText_11" value="注册服务项"/>
+	<Message key="PaneText_12" value="创建框"/>
+	<Message key="PaneText_13" value="框模板列表"/>
+	<Message key="PaneText_14" value="创建框模板"/>
+	<Message key="PaneText_15" value="导出框数据"/>
+	<Message key="PaneText_16" value="导入框数据"/>
+	<Message key="PaneText_17" value="导出框语言数据"/>
+	<Message key="PaneText_18" value="导入框语言数据"/>
+	<Message key="PaneText_19" value="使用框模板创建框"/>
+	<Message key="PaneText_20" value="框模板详细信息"/>
+	<Message key="PaneText_21" value="导入语言数据"/>
+	<Message key="err_nocode" value="定义为错误代码的消息不存在。"/>
+	<Message key="err_16776967" value="需要准确的输入因子。"/>
+	<Message key="err_83886180" value="ID 或密码不匹配。"/>
+	<Message key="err_83886291" value="重复登录。之前的登录会话已终止。"/>
+	<Message key="err_83886292" value="会话已过期。"/>
+	<Message key="err_83886293" value="客户端IP已更改，请重新登录。"/>
+	<Message key="err_436208615" value="STEER 会话已过期，请重新登录。"/>
+	<Message key="err_436208616" value="无法访问盒子系统，请检查服务器状态。"/>
+	<Message key="err_436208617" value="通讯中断，请检查服务器状态。"/>
+	<Message key="err_436208618" value="您没有权限，请联系管理员。"/>
+	<Message key="err_436208619" value="未知错误，请联系管理员。"/>
+	<Message key="err_436208620" value="您没有权限，请联系管理员。"/>
+	<Message key="err_436208621" value="本地化数据无效，请联系管理员。"/>
+	<Message key="err_436208622" value="无效数据，请联系管理员。"/>
+	<Message key="err_436208623" value="出现异常情况，请联系管理员。"/>
+	<Message key="err_402655186" value="已存在相同的框标签名称。"/>
+	<Message key="err_402656386" value="相同的物品标签名称已经存在。"/>
+	<Message key="err_402655786" value="未输入服务项目标签。"/>
+	<Message key="err_402658987" value="无法使用未使用的框模板创建框。"/>
+	<Message key="err_402658986" value="无法使用不存在的框模板创建框。"/>
+	<Message key="col_serviceItemTagSN" value="标签号"/>
+	<Message key="col_serviceItemTagName" value="标签名称"/>
+	<Message key="col_serviceItemTagDescription" value="标签描述"/>
+	<Message key="col_serviceItemValidationRuleSN" value="验证规则"/>
+	<Message key="col_serviceItemValidationValue" value="验证值"/>
+	<Message key="col_serviceItemTagEnableFlag" value="标签使用"/>
+	<Message key="col_serviceItemTag" value="Tag"/>
+	<Message key="col_boxTagSN" value="标签号"/>
+	<Message key="col_boxTagName" value="标签名称"/>
+	<Message key="col_boxTagDescription" value="标签描述"/>
+	<Message key="col_boxTagEnableFlag" value="标签使用"/>
+	<Message key="col_serviceItemSN" value="项目编号"/>
+	<Message key="col_serviceItemServiceSN" value="服务号"/>
+	<Message key="col_serviceItemMappingItemSN" value="项目映射编号"/>
+	<Message key="col_serviceItemEnableFlag" value="项目激活"/>
+	<Message key="col_serviceItemStartActivationDateTime" value="物品激活时间"/>
+	<Message key="col_serviceItemRegisterUserSN" value="物品注册人"/>
+	<Message key="col_serviceItemRegisterDateTime" value="物品注册时间"/>
+	<Message key="col_boxSN" value="邮箱号"/>
+	<Message key="col_receiverServiceSN" value="服务号"/>
+	<Message key="col_receiverUserSN" value="用户号"/>
+	<Message key="col_receiverGUSID" value="服务器编号"/>
+	<Message key="col_receiverCharacterSN" value="字符编号"/>
+	<Message key="col_receiverCharacterName" value="字符名"/>
+	<Message key="col_boxStateCode" value="盒子状态"/>
+	<Message key="col_createDateTime" value="注册时间"/>
+	<Message key="col_openDateTime" value="打开时间"/>
+	<Message key="col_useDateTime" value="激活时间"/>
+	<Message key="col_deleteDateTime" value="删除时间"/>
+	<Message key="col_externalTransactionKey" value="外部系统链接键"/>
+	<Message key="col_startActivationDateTime" value="激活开始时间"/>
+	<Message key="col_endActivationDateTime" value="激活结束时间"/>
+	<Message key="col_activateDurationAfterOpen" value="打开后可用时间(秒)"/>
+	<Message key="col_visableFlagBeforeActivation" value="激活前显示框"/>
+	<Message key="col_boxTagValue" value="框标签值"/>
+	<Message key="col_serviceItemTagValue" value="项目标签值"/>
+	<Message key="col_mappingItemSN" value="映射项ID"/>
+	<Message key="col_serviceItem" value="物品"/>
+	<Message key="col_boxTag" value="框标签"/>
+	<Message key="col_serviceItemName" value="项目名称"/>
+	<Message key="col_serviceItemDescription" value="项目描述"/>
+	<Message key="col_boxTemplateSN" value="框模板号"/>
+	<Message key="col_boxTemplateTitle" value="框模板名称"/>
+	<Message key="col_boxTemplateServiceSN" value="盒子模板服务号"/>
+	<Message key="col_boxTemplateCreateUserSN" value="Box 模板创建者"/>
+	<Message key="col_boxTemplateCreateDateTime" value="Box 模板创建时间"/>
+	<Message key="col_boxTemplateStartActivationDateTime" value="开始使用时间"/>
+	<Message key="col_boxTemplateEndActivationDateTime" value="结束使用时间"/>
+	<Message key="col_boxTemplateActivateDurationAfterOpen" value="打开后可用时间(秒)"/>
+	<Message key="col_boxTemplateVisableFlagBeforeActivation" value="激活前显示框"/>
+	<Message key="col_boxTemplateEnableFlag" value="框模板使用"/>
+	<Message key="col_validationValueSN" value="验证值编号"/>
+	<Message key="col_boxTemplateItemSN" value="盒子模板项号"/>
+	<Message key="code_enableFlag_1" value="旧"/>
+	<Message key="code_enableFlag_0" value="未使用"/>
+	<Message key="code_boxStateCode_1" value="未打开"/>
+	<Message key="code_boxStateCode_2" value="打开"/>
+	<Message key="code_boxStateCode_3" value="旧"/>
+	<Message key="code_boxStateCode_4" value="已删除"/>
+	<Message key="code_visableFlagBeforeActivation_0" value="显示"/>
+	<Message key="code_visableFlagBeforeActivation_1" value="不显示"/>
+</Box>

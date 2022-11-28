@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Box>
+	<Message key="notice" value="Box System.&#xA;Пожалуйста, введите авторизованный STEER ID и пароль для входа в систему."/>
+	<Message key="productTitle" value="Система управления предметами"/>
+	<Message key="msg_01" value="Пароль не совпадает."/>
+	<Message key="msg_02" value="Пожалуйста, подождите при загрузке."/>
+	<Message key="msg_03" value="Добро пожаловать."/>
+	<Message key="msg_04" value="Доступ к серверу."/>
+	<Message key="msg_05" value="Вход в систему…"/>
+	<Message key="msg_06" value="Пожалуйста, введите идентификатор."/>
+	<Message key="msg_07" value="Пожалуйста, введите пароль."/>
+	<Message key="msg_08" value="Запрос. Пожалуйста, подождите."/>
+	<Message key="msg_09" value=" вошел в систему."/>
+	<Message key="msg_10" value="Вы уверены, что хотите выйти из системы?"/>
+	<Message key="msg_11" value="У вас нет полномочий. Обратитесь к администратору."/>
+	<Message key="msg_12" value="Быстрое меню не настроено."/>
+	<Message key="msg_13" value="Список не выбран."/>
+	<Message key="msg_14" value="Пожалуйста, выберите элемент из списка или зарегистрированного меню."/>
+	<Message key="msg_15" value="Идет загрузка."/>
+	<Message key="msg_16" value=" тег предмета услуги будет удален. Продолжить?"/>
+	<Message key="msg_17" value=" тег предмета услуги удален."/>
+	<Message key="msg_18" value="Подтвердите введенное значение."/>
+	<Message key="msg_19" value=" тег предмета будет удален, и будет зарегистрирован новый тег предмета. Продолжить?"/>
+	<Message key="msg_20" value="Из-за системной ошибки цель для изменения не была зарегистрирована после удаления. Пожалуйста, проверьте."/>
+	<Message key="msg_21" value=" тег предмета был зарегистрирован в дубликате."/>
+	<Message key="msg_22" value=" тег предмета был зарегистрирован."/>
+	<Message key="msg_23" value="Для столбца разрешены только числа."/>
+	<Message key="msg_24" value=" тег поля будет удален. Продолжить?"/>
+	<Message key="msg_25" value=" тег коробки удален."/>
+	<Message key="msg_26" value=" тег коробки будет удален, и будет зарегистрирован новый тег коробки. Продолжить?"/>
+	<Message key="msg_27" value=" тег коробки зарегистрирован в дубликате."/>
+	<Message key="msg_28" value=" тег коробки зарегистрирован."/>
+	<Message key="msg_29" value=" предмет услуги будет удален. Продолжить?"/>
+	<Message key="msg_30" value=" предмет услуги удален."/>
+	<Message key="msg_31" value="Выберите дату."/>
+	<Message key="msg_32" value="Пожалуйста, введите номер сопоставления предмета."/>
+	<Message key="msg_33" value=" предмет услуги зарегистрирован."/>
+	<Message key="msg_34" value=" значение проверки тега не введено."/>
+	<Message key="msg_35" value="Зарегистрировать предмет услуги?"/>
+	<Message key="msg_36" value=" коробка удалена."/>
+	<Message key="msg_37" value=" коробка будет удалена. Продолжить?"/>
+	<Message key="msg_38" value="Запрос. Пожалуйста, подождите."/>
+	<Message key="msg_39" value="Некоторые из выбранных предметов уже добавлены."/>
+	<Message key="msg_40" value="Пожалуйста, введите номер пользователя."/>
+	<Message key="msg_41" value="Время окончания использования не может совпадать с временем начала использования или раньше."/>
+	<Message key="msg_42" value="Для создания коробки необходимо выбрать один или несколько предметов."/>
+	<Message key="msg_43" value=" значение тега не было введено."/>
+	<Message key="msg_44" value="Значение имени тега не было введено."/>
+	<Message key="msg_45" value="Создать коробку с этим содержимым?"/>
+	<Message key="msg_46" value=" коробка создана."/>
+	<Message key="msg_47" value="Зарегистрировать тег предмета?"/>
+	<Message key="msg_48" value="Зарегистрировать тег коробки?"/>
+	<Message key="msg_49" value="Создать шаблон коробки с этим содержимым?"/>
+	<Message key="msg_50" value=" шаблон коробки создан."/>
+	<Message key="msg_51" value="Нет данных для экспорта."/>
+	<Message key="msg_52" value="Поле должно быть числовым."/>
+	<Message key="msg_53" value="Пожалуйста, введите номер шаблона коробки."/>
+	<Message key="msg_54" value=" шаблон коробки будет удален. Продолжить?"/>
+	<Message key="msg_55" value=" шаблон коробки удален."/>
+	<Message key="msg_56" value="Экспорт информации о данных:"/>
+	<Message key="msg_57" value="Вы можете скачать по ссылке ниже."/>
+	<Message key="msg_58" value="Количество включенных тегов предмета услуги:"/>
+	<Message key="msg_59" value="Количество включенных тегов коробки:"/>
+	<Message key="msg_60" value="Количество включенных предметов услуги:"/>
+	<Message key="msg_61" value="Количество включенных шаблонов коробок:"/>
+	<Message key="msg_62" value="После завершения загрузки файла здесь будут отображаться данные для импорта в файл."/>
+	<Message key="msg_63" value="Прежде чем выбрать загрузку, выберите файл и подтвердите информацию."/>
+	<Message key="msg_64" value="Неверное расширение файла для {file}. Разрешено только расширение {extensions}."/>
+	<Message key="msg_65" value="{file} превышает максимально допустимый размер файла. Допустимый максимальный размер файла должен быть {sizeLimit}."/>
+	<Message key="msg_66" value="{file} меньше минимально допустимого размера файла. Допустимый минимальный размер файла должен быть {minSizeLimit}."/>
+	<Message key="msg_67" value="{file} пуст. Пожалуйста, загрузите еще раз."/>
+	<Message key="msg_68" value="Выполняется загрузка файла. Загрузка будет отменена при переходе на другую страницу."/>
+	<Message key="msg_69" value="Один или несколько данных в файле уже зарегистрированы в системе. Проверьте результат анализа и продолжите."/>
+	<Message key="msg_70" value="После завершения загрузки файла здесь будет отображаться результат анализа и кнопка регистрации."/>
+	<Message key="msg_71" value="Загрузка файла и анализ данных завершены."/>
+	<Message key="msg_72" value="Имя сохраненного файла в системе:"/>
+	<Message key="msg_73" value="Загрузка файлов и анализ данных…"/>
+	<Message key="msg_74" value="Для регистра данных проблем не обнаружено."/>
+	<Message key="msg_75" value="После запуска вы не можете отменить регистрацию. Продолжить?"/>
+	<Message key="msg_76" value="Регистрация: данные для [{1} {2}] из [{0}] уже зарегистрированы."/>
+	<Message key="msg_77" value="Значение: значение для столбца данных [{3}] из [{0}] [{1} {2}] не совпадает. Они отличаются файлом [{4} ], система [{5}]."/>
+	<Message key="msg_78" value="Регистрация: данные для [{1} {2} {3} {4}] из [{0}] уже зарегистрированы."/>
+	<Message key="msg_79" value="Значение: значение для столбца данных [{5}] из [{0}] [{1} {2} {3} {4}] не совпадает. Они разные как файл [{6}], система [{7}]."/>
+	<Message key="msg_80" value="Регистрация данных…"/>
+	<Message key="msg_81" value="Успех регистрации: данные для [{1} {2}] из [{0}] успешно зарегистрированы."/>
+	<Message key="msg_82" value="Ошибка регистрации: Ошибка данных для [{1} {2}] из [{0}]. Код ошибки: [{3}]"/>
+	<Message key="msg_83" value="При регистрации возникло препятствие. Повторите попытку."/>
+	<Message key="msg_84" value="Успех регистрации: данные для [{1} {2}, {3} {4}] из [{0}] успешно зарегистрированы."/>
+	<Message key="msg_85" value="Ошибка регистрации: ошибка данных для [{1} {2}, {3} {4}] из [{0}]. Код ошибки: [{5}]"/>
+	<Message key="msg_86" value="Импорт завершен, но одна или несколько регистрации не пройдены. Проверьте результат регистрации."/>
+	<Message key="msg_87" value="Импорт завершен, все данные зарегистрированы."/>
+	<Message key="msg_88" value="Загрузка файла и применение данных завершены."/>
+	<Message key="msg_89" value="Вы должны выбрать один или несколько тегов коробки, чтобы создать шаблон коробки."/>
+	<Message key="msg_90" value="Изменить предмет услуги?"/>
+	<Message key="msg_91" value="Неверная дата. Пожалуйста, проверьте и введите еще раз. "/>
+	<Message key="datatable_01" value="Данные не существуют."/>
+	<Message key="datatable_02" value="Произошла внутренняя ошибка."/>
+	<Message key="datatable_03" value="Загрузка данных…"/>
+	<Message key="datatable_04" value="Нажмите для сортировки по возрастанию"/>
+	<Message key="datatable_05" value="Нажмите для сортировки по убыванию"/>
+	<Message key="text_01" value="Уведомление"/>
+	<Message key="text_02" value="Войти"/>
+	<Message key="text_03" value="Опция"/>
+	<Message key="text_04" value="Запомнить меня"/>
+	<Message key="text_05" value="Войти"/>
+	<Message key="text_06" value="Вкл."/>
+	<Message key="text_07" value="Выкл."/>
+	<Message key="text_08" value="Выйти"/>
+	<Message key="text_09" value="ОК"/>
+	<Message key="text_10" value="Отмена"/>
+	<Message key="text_11" value="Ошибка"/>
+	<Message key="text_12" value="Быстрое меню"/>
+	<Message key="text_13" value="Поиск"/>
+	<Message key="text_14" value="Используется"/>
+	<Message key="text_15" value="Не используется"/>
+	<Message key="text_16" value="Начало"/>
+	<Message key="text_17" value="Назад"/>
+	<Message key="text_18" value="Вперед"/>
+	<Message key="text_19" value="Конец"/>
+	<Message key="text_20" value="Удалить"/>
+	<Message key="text_21" value="Изменить"/>
+	<Message key="text_22" value="Ошибка ввода"/>
+	<Message key="text_23" value="Зарегистрировать"/>
+	<Message key="text_24" value="TERA"/>
+	<Message key="text_25" value="Дата"/>
+	<Message key="text_26" value="Время"/>
+	<Message key="text_27" value="Добавить тег"/>
+	<Message key="text_28" value="Добавить"/>
+	<Message key="text_29" value="Сброс"/>
+	<Message key="text_30" value="Номер пользователя"/>
+	<Message key="text_31" value="Номер сервера"/>
+	<Message key="text_32" value="Номер персонажа"/>
+	<Message key="text_33" value="Добавить предмет"/>
+	<Message key="text_34" value="Создать"/>
+	<Message key="text_35" value="Тег предмета"/>
+	<Message key="text_36" value="Тег коробки"/>
+	<Message key="text_37" value="Предмет услуги"/>
+	<Message key="text_38" value="Шаблон коробки"/>
+	<Message key="text_39" value="Добавить в список экспорта"/>
+	<Message key="text_40" value="Загрузить выбранный список"/>
+	<Message key="text_41" value="Загрузка файла"/>
+	<Message key="text_42" value="Загрузка файла"/>
+	<Message key="text_43" value="Импортировать данные"/>
+	<Message key="text_44" value="Начать операцию регистрации данных"/>
+	<Message key="text_45" value="Файл предмета услуги"/>
+	<Message key="text_46" value="Файл тега предмета услуги"/>
+	<Message key="text_47" value="Файл шаблона коробки"/>
+	<Message key="text_48" value="Значение тега предмета услуги"/>
+	<Message key="text_49" value="Значение тега шаблона коробки"/>
+	<Message key="text_50" value="Предмет шаблона коробки"/>
+	<Message key="text_51" value="Значение тега предмета шаблона коробки"/>
+	<Message key="text_52" value="Информация об использовании коробки"/>
+	<Message key="PaneText_1" value="Список тегов предметов услуги"/>
+	<Message key="PaneText_2" value="Свойство тега предмета услуги"/>
+	<Message key="PaneText_3" value="Создать тег предмета"/>
+	<Message key="PaneText_4" value="Список тегов коробки"/>
+	<Message key="PaneText_5" value="Свойство тега коробки"/>
+	<Message key="PaneText_6" value="Создать тег коробки"/>
+	<Message key="PaneText_7" value="Список предметов услуги"/>
+	<Message key="PaneText_8" value="Свойство предмета услуги"/>
+	<Message key="PaneText_9" value="Список коробок"/>
+	<Message key="PaneText_10" value="Свойства коробки"/>
+	<Message key="PaneText_11" value="Зарегистрировать предмет услуги"/>
+	<Message key="PaneText_12" value="Создать коробку"/>
+	<Message key="PaneText_13" value="Список шаблонов коробки"/>
+	<Message key="PaneText_14" value="Создать шаблон коробки"/>
+	<Message key="PaneText_15" value="Экспорт данных коробок"/>
+	<Message key="PaneText_16" value="Импорт данных коробок"/>
+	<Message key="PaneText_17" value="Экспортировать языковые данные коробки"/>
+	<Message key="PaneText_18" value="Импорт языковых данных коробки"/>
+	<Message key="PaneText_19" value="Создать коробку по шаблону"/>
+	<Message key="PaneText_20" value="Сведения о шаблоне коробки"/>
+	<Message key="PaneText_21" value="Импорт языковых данных"/>
+	<Message key="err_nocode" value="Сообщение, определенное как код ошибки, не существует."/>
+	<Message key="err_16776967" value="Требуется точный входной коэффициент."/>
+	<Message key="err_83886180" value="Идентификатор или пароль не совпадают."/>
+	<Message key="err_83886291" value="Дубликат входа в систему. Предыдущий сеанс входа в систему был прерван."/>
+	<Message key="err_83886292" value="Срок действия сеанса истек."/>
+	<Message key="err_83886293" value="IP-адрес клиента изменен. Пожалуйста, войдите снова."/>
+	<Message key="err_436208615" value="Срок действия сеанса STEER истек. Пожалуйста, войдите снова."/>
+	<Message key="err_436208616" value="Не удается получить доступ к системе коробок. Пожалуйста, проверьте состояние сервера."/>
+	<Message key="err_436208617" value="Произошла ошибка во время связи. Пожалуйста, проверьте состояние сервера."/>
+	<Message key="err_436208618" value="У вас нет полномочий. Обратитесь к администратору."/>
+	<Message key="err_436208619" value="Неизвестная ошибка. Обратитесь к администратору."/>
+	<Message key="err_436208620" value="У вас нет полномочий. Обратитесь к администратору."/>
+	<Message key="err_436208621" value="Неверные данные локализации. Обратитесь к администратору."/>
+	<Message key="err_436208622" value="Неверные данные. Обратитесь к администратору."/>
+	<Message key="err_436208623" value="Произошла исключительная ситуация. Пожалуйста, свяжитесь с администратором."/>
+	<Message key="err_402655186" value="Тег коробки с таким именем уже существует."/>
+	<Message key="err_402656386" value="Тег предмета с таким именем уже существует."/>
+	<Message key="err_402655786" value="Не введен тег предмета услуги."/>
+	<Message key="err_402658987" value="Невозможно создать коробку с неиспользуемым шаблоном коробки."/>
+	<Message key="err_402658986" value="Невозможно создать коробку без существующего шаблона коробки."/>
+	<Message key="col_serviceItemTagSN" value="Номер тега"/>
+	<Message key="col_serviceItemTagName" value="Имя тега"/>
+	<Message key="col_serviceItemTagDescription" value="Описание тега"/>
+	<Message key="col_serviceItemValidationRuleSN" value="Правило проверки"/>
+	<Message key="col_serviceItemValidationValue" value="Проверочное значение"/>
+	<Message key="col_serviceItemTagEnableFlag" value="Использование тега"/>
+	<Message key="col_serviceItemTag" value="Tag"/>
+	<Message key="col_boxTagSN" value="Номер тега"/>
+	<Message key="col_boxTagName" value="Имя тега"/>
+	<Message key="col_boxTagDescription" value="Описание тега"/>
+	<Message key="col_boxTagEnableFlag" value="Использование тега"/>
+	<Message key="col_serviceItemSN" value="Номер предмета"/>
+	<Message key="col_serviceItemServiceSN" value="Сервисный номер"/>
+	<Message key="col_serviceItemMappingItemSN" value="Номер сопоставления предмета"/>
+	<Message key="col_serviceItemEnableFlag" value="Активация предмета"/>
+	<Message key="col_serviceItemStartActivationDateTime" value="Время активации предмета"/>
+	<Message key="col_serviceItemRegisterUserSN" value="Зарегистрированный предмет"/>
+	<Message key="col_serviceItemRegisterDateTime" value="Время регистрации предмета"/>
+	<Message key="col_boxSN" value="Номер коробки"/>
+	<Message key="col_receiverServiceSN" value="Сервисный номер"/>
+	<Message key="col_receiverUserSN" value="Номер пользователя"/>
+	<Message key="col_receiverGUSID" value="Номер сервера"/>
+	<Message key="col_receiverCharacterSN" value="Номер персонажа"/>
+	<Message key="col_receiverCharacterName" value="Имя персонажа"/>
+	<Message key="col_boxStateCode" value="Статус коробки"/>
+	<Message key="col_createDateTime" value="Время регистрации"/>
+	<Message key="col_openDateTime" value="Время открытия"/>
+	<Message key="col_useDateTime" value="Время активации"/>
+	<Message key="col_deleteDateTime" value="Время удаления"/>
+	<Message key="col_externalTransactionKey" value="Ключ внешней ссылки на систему"/>
+	<Message key="col_startActivationDateTime" value="Время начала активации"/>
+	<Message key="col_endActivationDateTime" value="Время окончания активации"/>
+	<Message key="col_activateDurationAfterOpen" value="Доступное время после открытия (сек.)"/>
+	<Message key="col_visableFlagBeforeActivation" value="Показывать окно перед активацией"/>
+	<Message key="col_boxTagValue" value="Значение тега коробки"/>
+	<Message key="col_serviceItemTagValue" value="Значение тега предмета"/>
+	<Message key="col_mappingItemSN" value="Номер сопоставления предмета"/>
+	<Message key="col_serviceItem" value="Предмет"/>
+	<Message key="col_boxTag" value="Тег коробки"/>
+	<Message key="col_serviceItemName" value="Имя предмета"/>
+	<Message key="col_serviceItemDescription" value="Описание предмета"/>
+	<Message key="col_boxTemplateSN" value="Номер шаблона коробки"/>
+	<Message key="col_boxTemplateTitle" value="Имя шаблона коробки"/>
+	<Message key="col_boxTemplateServiceSN" value="Сервисный номер шаблона коробки"/>
+	<Message key="col_boxTemplateCreateUserSN" value="Создатель шаблона коробки"/>
+	<Message key="col_boxTemplateCreateDateTime" value="Время создания шаблона коробки"/>
+	<Message key="col_boxTemplateStartActivationDateTime" value="Начать использовать время"/>
+	<Message key="col_boxTemplateEndActivationDateTime" value="Завершить использование времени"/>
+	<Message key="col_boxTemplateActivateDurationAfterOpen" value="Доступное время после открытия (сек.)"/>
+	<Message key="col_boxTemplateVisableFlagBeforeActivation" value="Показывать окно перед активацией"/>
+	<Message key="col_boxTemplateEnableFlag" value="Использование шаблона коробки"/>
+	<Message key="col_validationValueSN" value="Номер проверочного значения"/>
+	<Message key="col_boxTemplateItemSN" value="Номер предмета шаблона коробки"/>
+	<Message key="code_enableFlag_1" value="Используется"/>
+	<Message key="code_enableFlag_0" value="Не используется"/>
+	<Message key="code_boxStateCode_1" value="UNOPEN"/>
+	<Message key="code_boxStateCode_2" value="OPENED"/>
+	<Message key="code_boxStateCode_3" value="USED"/>
+	<Message key="code_boxStateCode_4" value="DELETED"/>
+	<Message key="code_visableFlagBeforeActivation_0" value="Показывать"/>
+	<Message key="code_visableFlagBeforeActivation_1" value="Не показывать"/>
+</Box>
